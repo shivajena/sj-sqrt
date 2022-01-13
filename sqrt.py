@@ -23,6 +23,14 @@ if __name__ == "__main__":
 
 
 # Function1
+
+
+
+
+
+
+
+
 # """Docstring of function 1"""
 
 # Function2
